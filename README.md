@@ -1,4 +1,3 @@
-# Mi-App-en-Blogger
 {
   "name": "Mi App en Blogger",
   "short_name": "MiApp",
